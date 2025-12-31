@@ -1,0 +1,8 @@
+{
+  "name": "AgroInteligente - Gestão Rural 360",
+  "description": "SaaS completo de gestão agro com administração central, fazendas como centros de custo e suporte de agentes de IA especializados.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
